@@ -2,7 +2,10 @@ One bleeding-edge and absolutely disruptive evolution of blockchain technologies
 
 This paper describes my vision for a DAO which serves a guild of tech entrepreneurs in collectively developing and launching sustainable revenue streams and fairly distribute their profits. The guild is composed of Members who maintain weekly dues in the crypto but our revenue is not based on Memberships. In fact, crypto may be earned by Members by completing tasks and should be sustainable by anyone putting in minimal effort toward the ongoing operations of the DAO. 
 
-Some guild members wish to passively earn in their free-time while some may make it a full-time persuit. It is partially an attempt to resolve the tension that for most projects there is an early need for centralization (i.e. classic startup) vs. the legitimate desire to have more voices heard as things evolve. Many projects also need funding in order to get started and need to accomodate investor interests. 
+There is a certain dichotemy in most entrepreneurial projects with true potential there is an early need for stealth and centralization (i.e. classic startup) vs. the legitimate desire to embrace collaboration as things start to take root. Therefore this platform would allow for any Member to begin dabbling with private notions and concepts but allow them to open them up to individuals, ad hoc teams or specialized groups when appropriate - and to have those specialized groups available in the first place. 
+
+
+Some guild members wish to passively earn in their free-time while some may make it a full-time persuit. Many projects also need funding in order to get started and need to accomodate investor interests. 
 
 Here are some existing models:
 
