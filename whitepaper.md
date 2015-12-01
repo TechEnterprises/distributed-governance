@@ -1,6 +1,8 @@
-One very cool thing about the evolving distributed autonomous organization (DAC/DAO) layer on top of cryptocurrencies is that it increasingly allows programmable governance.
+One bleeding-edge and absolutely disruptive evolution of blockchain technologies is the trend toward building programmable governance into cryptocurrencies allowing for the emergence of increasingly complex distributed autonomous organizations (DAC/DAO).
 
-This paper includes my best thoughts on an optimal approach. It is partially an attempt to resolve the tension that for most projects there is an early need for centralization (i.e. classic startup) vs. the legitimate desire to have more voices heard as things evolve. Many projects also need funding in order to get started and need to accomodate investor interests. 
+This paper describes my vision for a DAO which serves a guild of tech entrepreneurs in collectively developing and launching sustainable revenue streams and fairly distribute their profits. The guild is composed of Members who maintain weekly dues in the crypto but our revenue is not based on Memberships. In fact, crypto may be earned by Members by completing tasks and should be sustainable by anyone putting in minimal effort toward the ongoing operations of the DAO. 
+
+Some guild members wish to passively earn in their free-time while some may make it a full-time persuit. It is partially an attempt to resolve the tension that for most projects there is an early need for centralization (i.e. classic startup) vs. the legitimate desire to have more voices heard as things evolve. Many projects also need funding in order to get started and need to accomodate investor interests. 
 
 Here are some existing models:
 
