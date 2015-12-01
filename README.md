@@ -3,7 +3,7 @@ Evolving governance via the blockchain
 
 You are probably here for the whitepaper:
 
-https://github.com/fractastical/distributed-governance/blob/master/whitepaper.md
+https://github.com/techenterprises/distributed-governance/blob/master/whitepaper.md
 
 
 
